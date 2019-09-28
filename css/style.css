@@ -14,6 +14,8 @@ body {
 }
 
 nav {
+    width: 80%;
+    margin: 0 auto;
     text-align: center;
 }
 header h1 {
