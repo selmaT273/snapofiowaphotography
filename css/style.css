@@ -16,7 +16,7 @@ body {
 header h1 {
 
     text-align: center;
-    font-size: 55px;
+    font-size: 30px;
 }
 
 nav ul {
@@ -35,12 +35,10 @@ nav li {
 
 }
 
-nav li: last-of-type {
-    border-right: 2px solid black;
+P { text-align: center }
 
+H2 { text-align: center }
 
-
-}
 
 nav a {
     color: gray;
