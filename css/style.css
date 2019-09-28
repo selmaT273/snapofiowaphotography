@@ -42,14 +42,13 @@ nav li: last-of-type {
 }
 
 nav a {
-    color: black;
+    color: gray;
     text-decoration: none;
-
 
 }
 
 a:link {
-    color: black;
+    color: gray;
 
 }
 
@@ -60,5 +59,10 @@ a:visited {
 
 a:hover {
     font-weight: bold;
+
+}
+
+a:active {
+color: black;
 
 }
