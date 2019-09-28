@@ -1,88 +1,64 @@
-body{
-    background-color: white;
+body {
+    background-color: #ffffff;
     font-family: 'Abel', sans-serif;
     
-    }
-main{display: block;}
     
-#container {
+    
+    }
+    
+    #container {
     background-color: transparent;
-    min-height: 600px;
+    max-height: 600px;
     width: 80%;
     padding: 20px;
     }
     
-    header h1{
-    color: black;
+    header h1 {
+    
+        text-align: center;
+        font-size: 55px;
+    }
+    
+    nav ul { 
+    list-style:none;
     text-align: center;
-    font-size: 55px;
+    display: inline;
+    
+    
     }
     
-    nav ul {
-    list-style: none;
-    text-align: center;
+    nav li {
+    display: inline-block;
+    font: 16px;
+    
+    
     }
     
-    nav li{
-    display: inline-sblock;
-    border-left: 2px solid gray;
-    font-size: 16px;
-    }
-    
-    nav li:last-of-type {
-    
+    nav li: last-of-type {
     border-right: 2px solid black;
     
-    }
     
-    
-    
-    
-    nav a{
-    color: black;
-    text-decoration: none;
-    padding: 15px;
-    display: block;
     
     }
-    
-    
-    
     
     nav a{ 
-        color: black;
-        text-decoration: none;
-        
-        
-        }
-        
-        a:link {
-            color: gray;
-        
-        }
-        
-        a:visited {
-            color: gray;
-        
-        }
-        
-        a:hover {
-            font-weight: bold;
-        
-        }
-        
-        a:active {
-            color: black;
-        }
+    color: black;
+    text-decoration: none;
     
-    footer {
-    margin-top: 15px;
-    background-color: transparent;
-    font-size: 25px;
-    
-    text-align: center;
     
     }
-    footer li {
-        list-style-type: none;
+    
+    a:link {
+    color: black;
+    
+    }
+    
+    a:visited {
+        color: gray;
+    
+    }
+    
+    a:hover {
+        font-weight: bold;
+        
     }
