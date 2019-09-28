@@ -1,64 +1,64 @@
 body {
     background-color: #ffffff;
     font-family: 'Abel', sans-serif;
-    
-    
-    
-    }
-    
-    #container {
+
+
+
+}
+
+#container {
     background-color: transparent;
     max-height: 600px;
     width: 80%;
     padding: 20px;
-    }
-    
-    header h1 {
-    
-        text-align: center;
-        font-size: 55px;
-    }
-    
-    nav ul { 
-    list-style:none;
+}
+
+header h1 {
+
+    text-align: center;
+    font-size: 55px;
+}
+
+nav ul {
+    list-style: none;
     text-align: center;
     display: inline;
-    
-    
-    }
-    
-    nav li {
+
+
+}
+
+nav li {
     display: inline-block;
     font: 16px;
-    
-    
-    }
-    
-    nav li: last-of-type {
+
+
+}
+
+nav li: last-of-type {
     border-right: 2px solid black;
-    
-    
-    
-    }
-    
-    nav a{ 
+
+
+
+}
+
+nav a {
     color: black;
     text-decoration: none;
-    
-    
-    }
-    
-    a:link {
+
+
+}
+
+a:link {
     color: black;
-    
-    }
-    
-    a:visited {
-        color: gray;
-    
-    }
-    
-    a:hover {
-        font-weight: bold;
-        
-    }
+
+}
+
+a:visited {
+    color: gray;
+
+}
+
+a:hover {
+    font-weight: bold;
+
+}
